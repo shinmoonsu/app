@@ -46,7 +46,7 @@ while True:
 	print("\n=================STATE================")
 	# print(data)
 	# print('{:{}{}.{}}'.format(str(jdata['cv']),'+',10,2))
-	print("%sKOSPI 종합주가지수 : %s 전일대비 %s%%  | %s%%%s\n" % (yellow,jdata['nv'],jdata['cv'],jdata['cr'],native))
+	print("%sKOSPI 종합주가지수  :  %s 전일대비 %s%%  | %s%%%s\n" % (yellow,jdata['nv'],jdata['cv'],jdata['cr'],native))
 	# print(name,price,price2,percent)
 	for rows in adata:
 		# print(rows)
