@@ -1,0 +1,25 @@
+{	
+	"header": 
+		{
+			"data" : 
+			[
+				{
+					"name" : "검색어",
+					"width" : 120
+				},
+				{
+					"name" : "진행",
+					"width" : 80
+				},
+				{
+					"name" : "광고진행여부",
+					"width" : 80
+				},
+				{
+					"name" : "검색카테고리",
+					"width" : 327
+				}
+			],
+			"background" : "#f1f1f1"
+		}
+}
